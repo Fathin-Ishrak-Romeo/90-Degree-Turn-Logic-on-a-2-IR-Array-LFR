@@ -1,1 +1,2 @@
-# 90-Degree-Turn-Logic-on-a-2-IR-Array-LFR
+## Variable Tuning
+<img src="images/1.png" alt="50" width="700">
